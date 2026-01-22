@@ -41,5 +41,16 @@
     "ssh_user": "suporte_remoto",
     "last_update": "2026-01-21T23:46:57.914568",
     "online": true
+  },
+  {
+    "client_id": "35eed3a7-9ec3-40f2-aaba-84d1ce163db3",
+    "hostname": "LWI6L21Q",
+    "current_user": "Administrator",
+    "ip_public": "179.156.143.44",
+    "port": 2222,
+    "ssh_user": "suporte_remoto",
+    "last_update": "2026-01-21T23:51:52.759258",
+    "online": true,
+    "os": "Microsoft Windows 10 Pro"
   }
 ]
