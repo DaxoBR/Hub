@@ -1,21 +1,8 @@
 {
-  "clients": [
-    {
-      "id": "client_001",
-      "computer_name": "PC-CLIENTE-001",
-      "local_user": "user_local",
-      "tech_user": "sshtech",
-      "port": 2200,
-      "ip_wan": "192.168.1.100",
-      "registration_date": "2026-01-21T10:30:00Z",
-      "last_connection": "2026-01-21T14:45:00Z",
-      "status": "online",
-      "notes": "Primeiro cliente de teste"
-    }
-  ],
+  "clients": [],
   "metadata": {
     "version": "1.0",
-    "last_updated": "2026-01-21T10:30:00Z",
-    "total_clients": 1
+    "last_updated": "2024-01-01T00:00:00Z",
+    "total_clients": 0
   }
 }
