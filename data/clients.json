@@ -9,5 +9,16 @@
     "last_update": "2026-01-21T23:38:10.532133",
     "online": false,
     "os": "OS Name:                   Microsoft Windows 10 Pro"
+  },
+  {
+    "client_id": "cb77b237-1714-4d63-932e-e05741e8a66a",
+    "hostname": "LWI6L21Q",
+    "current_user": "Administrator",
+    "ip_public": "179.156.143.44",
+    "port": 2222,
+    "ssh_user": "suporte_remoto",
+    "last_update": "2026-01-21T23:38:46.813581",
+    "online": true,
+    "os": "OS Name:                   Microsoft Windows 10 Pro"
   }
 ]
