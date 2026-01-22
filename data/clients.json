@@ -33,5 +33,18 @@
     "online": true,
     "os": "Microsoft Windows 10 Pro",
     "notes": "Usu\u00e1rios dispon\u00edveis: suporte_remoto/Suporte@123 ou suporte/suporte123"
+  },
+  {
+    "client_id": "ace1ac37-4e38-4178-b43c-2f24d91ae6fa",
+    "hostname": "LWI6L21Q",
+    "current_user": "Administrator",
+    "ip_public": "179.156.143.44",
+    "port": 2222,
+    "ssh_user": "suporte_remoto",
+    "ssh_server": "Bitvise",
+    "last_update": "2026-01-22T00:19:11.934073",
+    "online": true,
+    "os": "Microsoft Windows 10 Pro",
+    "notes": "Usu\u00e1rios dispon\u00edveis: suporte_remoto/Suporte@123 ou suporte/suporte123"
   }
 ]
