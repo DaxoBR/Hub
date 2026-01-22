@@ -1,0 +1,29 @@
+{
+  "comment": "Template de referência para estrutura de clients.json",
+  "client_template": {
+    "id": "client_XXX",
+    "computer_name": "NOME-DO-PC",
+    "local_user": "usuario_local_windows",
+    "tech_user": "sshtech",
+    "port": 2200,
+    "ip_wan": "XXX.XXX.XXX.XXX",
+    "registration_date": "ISO8601-datetime",
+    "last_connection": "ISO8601-datetime",
+    "status": "online|offline|maintenance",
+    "notes": "Descrição adicional"
+  },
+  "port_ranges": {
+    "info": "Portas são alocadas sequencialmente iniciando em 2200",
+    "start": 2200,
+    "end": 2299,
+    "description": "A cada novo cliente, incrementa 1"
+  },
+  "ssh_config": {
+    "protocol": "SSH",
+    "authentication": "publickey,password",
+    "password_auth": true,
+    "pubkey_auth": true,
+    "root_login": false,
+    "port": "VARIA_POR_CLIENTE"
+  }
+}
