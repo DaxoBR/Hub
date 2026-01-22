@@ -1,55 +1,12 @@
 [
   {
-    "client_id": "6b069601-8a1e-4192-9a34-fb901c112cab",
-    "hostname": "LWI6L21Q",
-    "current_user": "Administrator",
-    "ip_public": "179.156.143.44",
-    "port": 2222,
-    "ssh_user": "suporte_remoto",
-    "last_update": "2026-01-21T23:38:10.532133",
-    "online": false,
-    "os": "OS Name:                   Microsoft Windows 10 Pro"
-  },
-  {
-    "client_id": "cb77b237-1714-4d63-932e-e05741e8a66a",
-    "hostname": "LWI6L21Q",
-    "current_user": "Administrator",
-    "ip_public": "179.156.143.44",
-    "port": 2222,
-    "ssh_user": "suporte_remoto",
-    "last_update": "2026-01-21T23:38:52.740776",
-    "online": true,
-    "os": "OS Name:                   Microsoft Windows 10 Pro"
-  },
-  {
-    "client_id": "db27334e-f192-44cb-a69a-03e92acf0506",
-    "hostname": "LWI6L21Q",
-    "current_user": "Administrator",
-    "ip_public": "179.156.143.44",
-    "port": 2222,
-    "ssh_user": "suporte_remoto",
-    "last_update": "2026-01-21T23:46:28.749793",
-    "online": true,
-    "os": "OS Name:                   Microsoft Windows 10 Pro"
-  },
-  {
-    "client_id": "4e97b841-1241-4b0e-bb21-1f33f77e05e4",
-    "hostname": "LWI6L21Q",
-    "user": "Administrator",
-    "ip": "179.156.143.44",
-    "port": 2222,
-    "ssh_user": "suporte_remoto",
-    "last_update": "2026-01-21T23:46:57.914568",
-    "online": true
-  },
-  {
     "client_id": "35eed3a7-9ec3-40f2-aaba-84d1ce163db3",
     "hostname": "LWI6L21Q",
     "current_user": "Administrator",
     "ip_public": "179.156.143.44",
     "port": 2222,
     "ssh_user": "suporte_remoto",
-    "last_update": "2026-01-21T23:51:54.539499",
+    "last_update": "2026-01-22T00:03:30.774549",
     "online": true,
     "os": "Microsoft Windows 10 Pro"
   }
