@@ -20,5 +20,18 @@
     "last_update": "2026-01-22T00:03:41.237203",
     "online": true,
     "os": "Microsoft Windows 10 Pro"
+  },
+  {
+    "client_id": "5bfe0007-9001-43a9-b27f-36fb6c85b336",
+    "hostname": "LWI6L21Q",
+    "current_user": "Administrator",
+    "ip_public": "179.156.143.44",
+    "port": 2222,
+    "ssh_user": "suporte_remoto",
+    "ssh_server": "Bitvise",
+    "last_update": "2026-01-22T00:17:35.490317",
+    "online": true,
+    "os": "Microsoft Windows 10 Pro",
+    "notes": "Usu\u00e1rios dispon\u00edveis: suporte_remoto/Suporte@123 ou suporte/suporte123"
   }
 ]
